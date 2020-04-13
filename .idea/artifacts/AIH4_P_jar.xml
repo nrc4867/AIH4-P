@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AIH4-P:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AIH4_P_jar</output-path>
+    <root id="archive" name="AIH4-P.jar">
+      <element id="module-output" name="AIH4-P" />
+    </root>
+  </artifact>
+</component>
